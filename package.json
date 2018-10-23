@@ -1,0 +1,9 @@
+{
+  "author": "vix liu",
+  "name": "censorify",
+  "version": "1.0.0",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
